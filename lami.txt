@@ -3,3 +3,4 @@ ameer
 osamh
 lami
 gaith
+alias
